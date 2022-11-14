@@ -75,6 +75,7 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
 Django==4.1.3
 djangorestframework==3.14.0
+django-cors-headers==3.13.0
 docutils @ file:///opt/concourse/worker/volumes/live/c87e10af-317d-45cb-7142-3d02053858ee/volume/docutils_1620827978243/work
 entrypoints @ file:///opt/concourse/worker/volumes/live/78b2c4ae-da17-4aa7-7fdc-138f840abf07/volume/entrypoints_1649926486598/work
 et-xmlfile==1.1.0
@@ -192,6 +193,7 @@ patsy==0.5.2
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pika==1.3.1
 Pillow==9.0.1
 pkginfo @ file:///tmp/build/80754af9/pkginfo_1643162084911/work
 plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
@@ -203,6 +205,7 @@ prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
 protobuf==3.19.1
 psutil @ file:///opt/concourse/worker/volumes/live/da41f1b1-060b-47fa-4c17-557e069ead1d/volume/psutil_1612298011002/work
+psycopg2==2.9.5
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py @ file:///opt/conda/conda-bld/py_1644396412707/work
